@@ -125,3 +125,4 @@ lines(data$sbp, 18.76153+0.05921*data$sbp-0.63388, col="blue")
 summary(fit3)
 
 
+
