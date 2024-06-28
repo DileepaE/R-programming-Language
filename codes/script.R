@@ -1,7 +1,7 @@
 #identify your working directory 
 getwd()
 
-#import data
+#import data----
 data <- read.csv("./data/data.csv")
 head(data)
 dim(data)
